@@ -1,0 +1,8 @@
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student_information_system.Form1.resources
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student_information_system.student_info.resources
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.csproj.GenerateResource.cache
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.AssemblyInfo.cs
+E:\Visual Studio Projects\student information system\student information system\obj\Debug\net6.0-windows\student information system.csproj.CoreCompileInputs.cache
